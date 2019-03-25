@@ -1,0 +1,7 @@
+D:\Kiki\VP\LAB01\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\Kiki\VP\LAB01\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\Kiki\VP\LAB01\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\Kiki\VP\LAB01\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\Kiki\VP\LAB01\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\Kiki\VP\LAB01\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\Kiki\VP\LAB01\Lab11\Lab11\obj\Debug\Lab11.pdb

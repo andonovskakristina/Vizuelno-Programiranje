@@ -1,0 +1,10 @@
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\bin\Debug\Lab2NarackaNaPica.exe.config
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\bin\Debug\Lab2NarackaNaPica.exe
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\bin\Debug\Lab2NarackaNaPica.pdb
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.csprojAssemblyReference.cache
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.Form1.resources
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.Properties.Resources.resources
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.csproj.GenerateResource.cache
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.csproj.CoreCompileInputs.cache
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.exe
+D:\Kiki\VP\LAB02\Lab2NarackaNaPica\Lab2NarackaNaPica\obj\Debug\Lab2NarackaNaPica.pdb

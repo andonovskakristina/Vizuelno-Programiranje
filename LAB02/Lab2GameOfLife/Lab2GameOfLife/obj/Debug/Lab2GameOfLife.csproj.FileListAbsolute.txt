@@ -1,0 +1,7 @@
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe.config
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.exe
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\bin\Debug\Lab2GameOfLife.pdb
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.csprojAssemblyReference.cache
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.csproj.CoreCompileInputs.cache
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.exe
+D:\Kiki\VP\LAB02\Lab2GameOfLife\Lab2GameOfLife\obj\Debug\Lab2GameOfLife.pdb

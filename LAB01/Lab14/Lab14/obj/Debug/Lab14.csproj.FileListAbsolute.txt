@@ -1,0 +1,6 @@
+D:\Kiki\VP\LAB01\Lab14\Lab14\bin\Debug\Lab14.exe.config
+D:\Kiki\VP\LAB01\Lab14\Lab14\bin\Debug\Lab14.exe
+D:\Kiki\VP\LAB01\Lab14\Lab14\bin\Debug\Lab14.pdb
+D:\Kiki\VP\LAB01\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\Kiki\VP\LAB01\Lab14\Lab14\obj\Debug\Lab14.exe
+D:\Kiki\VP\LAB01\Lab14\Lab14\obj\Debug\Lab14.pdb

@@ -1,0 +1,7 @@
+D:\Kiki\VP\LAB01\Lab12\Lab12\bin\Debug\Lab12.exe.config
+D:\Kiki\VP\LAB01\Lab12\Lab12\bin\Debug\Lab12.exe
+D:\Kiki\VP\LAB01\Lab12\Lab12\bin\Debug\Lab12.pdb
+D:\Kiki\VP\LAB01\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+D:\Kiki\VP\LAB01\Lab12\Lab12\obj\Debug\Lab12.exe
+D:\Kiki\VP\LAB01\Lab12\Lab12\obj\Debug\Lab12.pdb
+D:\Kiki\VP\LAB01\Lab12\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
