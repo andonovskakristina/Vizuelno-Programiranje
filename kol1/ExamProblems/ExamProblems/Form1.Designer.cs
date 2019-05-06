@@ -136,6 +136,11 @@
             // nudPoeni1
             // 
             this.nudPoeni1.Location = new System.Drawing.Point(10, 149);
+            this.nudPoeni1.Maximum = new decimal(new int[] {
+            50,
+            0,
+            0,
+            0});
             this.nudPoeni1.Name = "nudPoeni1";
             this.nudPoeni1.Size = new System.Drawing.Size(120, 20);
             this.nudPoeni1.TabIndex = 3;
@@ -177,6 +182,11 @@
             // nudPoeni2
             // 
             this.nudPoeni2.Location = new System.Drawing.Point(10, 149);
+            this.nudPoeni2.Maximum = new decimal(new int[] {
+            50,
+            0,
+            0,
+            0});
             this.nudPoeni2.Name = "nudPoeni2";
             this.nudPoeni2.Size = new System.Drawing.Size(120, 20);
             this.nudPoeni2.TabIndex = 3;
