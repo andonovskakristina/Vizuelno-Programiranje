@@ -39,41 +39,55 @@ namespace Pacman
             Direction = direction;
         }
 
-        public void Move(int MAX_X, int MAX_Y)
+        public void Move(int MAX_X, int MAX_Y, List<int> BlackBlocksList)
         {
-            MAX_X *= Radius * 2;
-            MAX_Y *= Radius * 2;
+            int Width = MAX_X;
+
+            MAX_X = (MAX_X - 1) * Radius * 2;
+            MAX_Y = (MAX_Y - 1) * Radius * 2;
+
+            int New_X = X;
+            int New_Y = Y;
 
             if(Direction == DIRECTION.Up)
             {
                 if (Y > 0)
-                    Y -= Radius * 2;
+                    New_Y -= Radius * 2;
                 else
-                    Y = MAX_Y;
+                    New_Y = MAX_Y;
             } 
             else if(Direction == DIRECTION.Down)
             {
                 if (Y < MAX_Y)
-                    Y += Radius * 2;
+                    New_Y += Radius * 2;
                 else
-                    Y = 0;
+                    New_Y = 0;
             }
             else if(Direction == DIRECTION.Left)
             {
                 if (X > 0)
-                    X -= Radius * 2;
+                    New_X -= Radius * 2;
                 else
-                    X = MAX_X;
+                    New_X = MAX_X;
             }
             else if(Direction == DIRECTION.Right)
             {
                 if (X < MAX_X)
-                    X += Radius * 2;
+                    New_X += Radius * 2;
                 else
-                    X = 0;
+                    New_X = 0;
             }
 
-            MouthOpened = !MouthOpened;
+            if ((New_X == 0 && New_Y == 0 && !BlackBlocksList.Contains(0)) || ((New_X != 0 || New_Y != 0) && !BlackBlocksList.Contains((New_Y * Width + New_X) / (2 * Radius))))
+            {
+                X = New_X;
+                Y = New_Y;
+                MouthOpened = !MouthOpened;
+            }
+            else
+            {
+                MouthOpened = false;
+            }
         }
 
         public void Draw(Graphics g)

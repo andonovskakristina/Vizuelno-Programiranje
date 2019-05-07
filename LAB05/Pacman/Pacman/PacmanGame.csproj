@@ -84,5 +84,11 @@
   <ItemGroup>
     <None Include="Properties\orange.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\orange2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\congratulations.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
